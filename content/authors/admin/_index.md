@@ -79,7 +79,7 @@ skills:
         description: 'I have one friendly Maltese and one lovely Ragdoll-Siamese mix.'
         percent: 100
         icon: cat
-        icon_pack: fas
+        icon_pack: far
       - name: Community
         description: 'Set up 'vista', a community for mutual progress management, with my best friend in 2020 and still running it.'
         percent: 90
